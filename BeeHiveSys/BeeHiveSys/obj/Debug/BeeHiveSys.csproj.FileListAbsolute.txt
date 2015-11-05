@@ -1,0 +1,2 @@
+C:\Users\Hannah\Documents\Homework\Senior Design\BeeHiveSys\BeeHiveSys\bin\Debug\BeeHiveSys.exe.config
+C:\Users\Hannah\Documents\GitHub\BeeHiveSystem\BeeHiveSys\BeeHiveSys\bin\Debug\BeeHiveSys.exe.config
